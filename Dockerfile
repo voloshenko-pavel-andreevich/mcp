@@ -1,4 +1,4 @@
-FROM Python:3.14.2-slim
+FROM python:3.14.2-slim
 
 COPY . .
 
